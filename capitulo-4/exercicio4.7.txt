@@ -1,0 +1,1 @@
+R- Ao executar a linha de comparação if e quando o valor nao e encontrado, gera um else com mais blocos de if e else, o que vai aumentando a quantidade de comparações de verdadeiro ou falso a medida que não encontra uma comparação de valor verdadeiro. Tornando os ultimos itens da busca mais custosos
