@@ -1,3 +1,3 @@
-![Livro introdução à programação com python.](/images/livro.jpg "Nilo Ney Coutinho Menezes")
+![Livro introdução à programação com python.](/images/INTRODUCAO-PROGRAMACAO-PYTHON.jpg "Nilo Ney Coutinho Menezes")
 
 # Resolução do livro Introdução à programação com python
