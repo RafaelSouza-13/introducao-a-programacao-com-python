@@ -1,5 +1,6 @@
-deposito = float(input('Digite o deposito inicial: '))
-taxa = float(input('Digite a taxa de juros: '))
+from decimal import Decimal
+deposito = Decimal(input('Digite o deposito inicial: '))
+taxa = Decimal(input('Digite a taxa de juros: '))
 acumulador = deposito
 mes = 1
 while(mes <= 24):

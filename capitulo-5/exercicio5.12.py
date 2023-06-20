@@ -1,7 +1,7 @@
 from decimal import Decimal
-deposito = float(input('Digite o deposito inicial: '))
-taxa = float(input('Digite a taxa de juros: '))
-deposito_mes = float(input('Digite o valor de deposito mensal: '))
+deposito = Decimal(input('Digite o deposito inicial: '))
+taxa = Decimal(input('Digite a taxa de juros: '))
+deposito_mes = Decimal(input('Digite o valor de deposito mensal: '))
 acumulador = deposito
 mes = 1
 while(mes <= 24):
@@ -11,4 +11,4 @@ while(mes <= 24):
   mes += 1
   acumulador += deposito_mes
 
-print(f'Valor depositado: {deposito} \n Taxa de juros: {taxa} \n Total de ganho em 24 meses = {(acumulador - deposito):.2f} \n valor total: {acumulador:.2f}')
+print(f'Valor depositado: {deposito} \nTaxa de juros: {taxa} \nTotal de ganho em 24 meses = {(acumulador - deposito):.2f} \nvalor total: {acumulador:.2f}')
