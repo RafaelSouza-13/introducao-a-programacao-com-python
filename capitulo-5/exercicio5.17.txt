@@ -1,0 +1,1 @@
+Exibirá um print de que tem 0 cedulas de 50 reais
