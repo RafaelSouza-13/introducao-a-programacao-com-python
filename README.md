@@ -14,7 +14,7 @@ Meu propósito é aperfeiçoar meus conhecimentos na linguagem, conhecendo seus 
 - [x] Capítulo 2 - Preparando o ambiente
 - [x] Capítulo 3 - Variáveis e entrada de dados
 - [x] Capítulo 4 - Condições
-- [ ] Capítulo 5 - Repetições
+- [x] Capítulo 5 - Repetições
 - [ ] Capítulo 6 - Listas, dicionários, tuplas e conjuntos
 - [ ] Capítulo 7 - Trabalhando com strings
 - [ ] Capítulo 8 - Funções
@@ -30,3 +30,4 @@ Meu propósito é aperfeiçoar meus conhecimentos na linguagem, conhecendo seus 
 - [Capítulo 2](https://github.com/RafaelSouza-13/introducao-a-programacao-com-python/tree/main/capitulo-2)
 - [Capítulo 3](https://github.com/RafaelSouza-13/introducao-a-programacao-com-python/tree/main/capitulo-3)
 - [Capitulo 4](https://github.com/RafaelSouza-13/introducao-a-programacao-com-python/tree/main/capitulo-4)
+- [Capitulo 5](https://github.com/RafaelSouza-13/introducao-a-programacao-com-python/tree/main/capitulo-5)
