@@ -1,0 +1,1 @@
+R - Acontece um IndexError pois não é possivel remover elemento de uma lista vazia
