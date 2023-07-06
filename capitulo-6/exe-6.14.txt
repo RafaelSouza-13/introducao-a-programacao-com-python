@@ -1,0 +1,1 @@
+R - O programa ira percorrer a lista uma vez e não vai encontrar trocas de posição, e se não encontrar, quebra o laço pois a variavel booleana não será alterada de false para true

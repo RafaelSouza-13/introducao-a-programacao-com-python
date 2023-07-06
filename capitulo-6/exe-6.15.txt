@@ -1,0 +1,1 @@
+R - Ele não fara a troca pois para realizar uma troca o número atual tem que ser maior que o próximo número
