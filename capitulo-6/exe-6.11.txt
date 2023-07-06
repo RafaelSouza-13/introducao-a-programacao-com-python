@@ -1,0 +1,2 @@
+R - O while é usado geralmente quando não sabemos exatamente o numero de iterações que seram
+realizadas, já o for quando sabemos quantas vezes o laço vai se repetir
