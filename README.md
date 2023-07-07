@@ -15,7 +15,7 @@ Meu propósito é aperfeiçoar meus conhecimentos na linguagem, conhecendo seus 
 - [x] Capítulo 3 - Variáveis e entrada de dados
 - [x] Capítulo 4 - Condições
 - [x] Capítulo 5 - Repetições
-- [ ] Capítulo 6 - Listas, dicionários, tuplas e conjuntos
+- [x] Capítulo 6 - Listas, dicionários, tuplas e conjuntos
 - [ ] Capítulo 7 - Trabalhando com strings
 - [ ] Capítulo 8 - Funções
 - [ ] Capítulo 9 - Arquivos
