@@ -33,3 +33,4 @@ Meu propósito é aperfeiçoar meus conhecimentos na linguagem, conhecendo seus 
 - [Capitulo 5](https://github.com/RafaelSouza-13/introducao-a-programacao-com-python/tree/main/capitulo-5)
 - [Capitulo 6](https://github.com/RafaelSouza-13/introducao-a-programacao-com-python/tree/main/capitulo-6)
 - [Capitulo 7](https://github.com/RafaelSouza-13/introducao-a-programacao-com-python/tree/main/capitulo-7)
+- [Capitulo 8](https://github.com/RafaelSouza-13/introducao-a-programacao-com-python/tree/main/capitulo-8)
