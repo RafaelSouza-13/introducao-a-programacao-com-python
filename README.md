@@ -17,7 +17,7 @@ Meu propósito é aperfeiçoar meus conhecimentos na linguagem, conhecendo seus 
 - [x] Capítulo 5 - Repetições
 - [x] Capítulo 6 - Listas, dicionários, tuplas e conjuntos
 - [x] Capítulo 7 - Trabalhando com strings
-- [ ] Capítulo 8 - Funções
+- [x] Capítulo 8 - Funções
 - [ ] Capítulo 9 - Arquivos
 - [ ] Capítulo 10 - Classes e objetos
 - [ ] Capítulo 11 - Banco de dados
