@@ -27,11 +27,12 @@ Meu propósito é aperfeiçoar meus conhecimentos na linguagem, conhecendo seus 
 
 ### Exercícios
 
-- [Capítulo 2](https://github.com/RafaelSouza-13/introducao-a-programacao-com-python/tree/main/capitulo-2)
-- [Capítulo 3](https://github.com/RafaelSouza-13/introducao-a-programacao-com-python/tree/main/capitulo-3)
-- [Capitulo 4](https://github.com/RafaelSouza-13/introducao-a-programacao-com-python/tree/main/capitulo-4)
-- [Capitulo 5](https://github.com/RafaelSouza-13/introducao-a-programacao-com-python/tree/main/capitulo-5)
-- [Capitulo 6](https://github.com/RafaelSouza-13/introducao-a-programacao-com-python/tree/main/capitulo-6)
-- [Capitulo 7](https://github.com/RafaelSouza-13/introducao-a-programacao-com-python/tree/main/capitulo-7)
-- [Capitulo 8](https://github.com/RafaelSouza-13/introducao-a-programacao-com-python/tree/main/capitulo-8)
+- [Capítulo 2](https://github.com/RafaelSouza-13/introducao-a-programacao-com-python/tree/main/capitulo-02)
+- [Capítulo 3](https://github.com/RafaelSouza-13/introducao-a-programacao-com-python/tree/main/capitulo-03)
+- [Capitulo 4](https://github.com/RafaelSouza-13/introducao-a-programacao-com-python/tree/main/capitulo-04)
+- [Capitulo 5](https://github.com/RafaelSouza-13/introducao-a-programacao-com-python/tree/main/capitulo-05)
+- [Capitulo 6](https://github.com/RafaelSouza-13/introducao-a-programacao-com-python/tree/main/capitulo-06)
+- [Capitulo 7](https://github.com/RafaelSouza-13/introducao-a-programacao-com-python/tree/main/capitulo-07)
+- [Capitulo 8](https://github.com/RafaelSouza-13/introducao-a-programacao-com-python/tree/main/capitulo-08)
+- [Capitulo 9](https://github.com/RafaelSouza-13/introducao-a-programacao-com-python/tree/main/capitulo-09)
 - [Capitulo 10](https://github.com/RafaelSouza-13/introducao-a-programacao-com-python/tree/main/capitulo-10)
