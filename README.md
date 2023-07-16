@@ -19,7 +19,7 @@ Meu propósito é aperfeiçoar meus conhecimentos na linguagem, conhecendo seus 
 - [x] Capítulo 7 - Trabalhando com strings
 - [x] Capítulo 8 - Funções
 - [ ] Capítulo 9 - Arquivos
-- [ ] Capítulo 10 - Classes e objetos
+- [x] Capítulo 10 - Classes e objetos
 - [ ] Capítulo 11 - Banco de dados
 - [ ] Capítulo 12 - Próximos passos
 - [ ] Apêndice A - Mensagens de erro
