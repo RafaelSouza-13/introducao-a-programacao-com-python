@@ -27,12 +27,13 @@ Meu propósito é aperfeiçoar meus conhecimentos na linguagem, conhecendo seus 
 
 ### Exercícios
 
-- [Capítulo 2](https://github.com/RafaelSouza-13/introducao-a-programacao-com-python/tree/main/capitulo-02)
-- [Capítulo 3](https://github.com/RafaelSouza-13/introducao-a-programacao-com-python/tree/main/capitulo-03)
-- [Capitulo 4](https://github.com/RafaelSouza-13/introducao-a-programacao-com-python/tree/main/capitulo-04)
-- [Capitulo 5](https://github.com/RafaelSouza-13/introducao-a-programacao-com-python/tree/main/capitulo-05)
-- [Capitulo 6](https://github.com/RafaelSouza-13/introducao-a-programacao-com-python/tree/main/capitulo-06)
-- [Capitulo 7](https://github.com/RafaelSouza-13/introducao-a-programacao-com-python/tree/main/capitulo-07)
-- [Capitulo 8](https://github.com/RafaelSouza-13/introducao-a-programacao-com-python/tree/main/capitulo-08)
-- [Capitulo 9](https://github.com/RafaelSouza-13/introducao-a-programacao-com-python/tree/main/capitulo-09)
+- [Capítulo 02](https://github.com/RafaelSouza-13/introducao-a-programacao-com-python/tree/main/capitulo-02)
+- [Capítulo 03](https://github.com/RafaelSouza-13/introducao-a-programacao-com-python/tree/main/capitulo-03)
+- [Capitulo 04](https://github.com/RafaelSouza-13/introducao-a-programacao-com-python/tree/main/capitulo-04)
+- [Capitulo 05](https://github.com/RafaelSouza-13/introducao-a-programacao-com-python/tree/main/capitulo-05)
+- [Capitulo 06](https://github.com/RafaelSouza-13/introducao-a-programacao-com-python/tree/main/capitulo-06)
+- [Capitulo 07](https://github.com/RafaelSouza-13/introducao-a-programacao-com-python/tree/main/capitulo-07)
+- [Capitulo 08](https://github.com/RafaelSouza-13/introducao-a-programacao-com-python/tree/main/capitulo-08)
+- [Capitulo 09](https://github.com/RafaelSouza-13/introducao-a-programacao-com-python/tree/main/capitulo-09)
 - [Capitulo 10](https://github.com/RafaelSouza-13/introducao-a-programacao-com-python/tree/main/capitulo-10)
+- [Capitulo 11](https://github.com/RafaelSouza-13/introducao-a-programacao-com-python/tree/main/capitulo-11)
